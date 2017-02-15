@@ -3,7 +3,6 @@
 import xbmc
 
 from xbmcswift2 import actions
-# from common.plugin import plugin
 from support.common import plugin
 from common.helpers import get_dom_parser, select_torrent_link, get_torrent, play_torrent
 
